@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1537471068 source:c:\estructura de datos\juegoahorcado\ahorcado.cpp
+	"ahorcado.h"
+	<iostream>
+	<string>
+	<cstdlib>
+	<vector>
+	<time.h>
+
+1537471068 c:\estructura de datos\juegoahorcado\ahorcado.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<vector>
+	<time.h>
+
+1537471158 source:c:\estructura de datos\juegoahorcado\main.cpp
+	<iostream>
+	"ahorcado.h"
+
+1537558434 source:d:\juegoahorcado\juegoahorcado\ahorcado.cpp
+	"ahorcado.h"
+	<iostream>
+	<string>
+	<cstdlib>
+	<vector>
+	<time.h>
+
+1537471070 d:\juegoahorcado\juegoahorcado\ahorcado.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<vector>
+	<time.h>
+
+1537558836 source:d:\juegoahorcado\juegoahorcado\main.cpp
+	<iostream>
+	"ahorcado.h"
+
+1537848124 source:e:\juegoahorcado\juegoahorcado\ahorcado.cpp
+	"ahorcado.h"
+	<iostream>
+	<string>
+	<cstdlib>
+	<vector>
+	<time.h>
+
+1537847582 e:\juegoahorcado\juegoahorcado\ahorcado.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<vector>
+	<time.h>
+
+1537848050 source:e:\juegoahorcado\juegoahorcado\main.cpp
+	<iostream>
+	"ahorcado.h"
+
