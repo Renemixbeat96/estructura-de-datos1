@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1537150723 source:c:\users\fcojavierjunior\documents\programcionc\numero_natural\main.cpp
+	<iostream>
+	"sucesor.h"
+	"antecesor.h"
+	"operacionsuma.h"
+	"operacionigual.h"
+	"operacion0.h"
+	"operacionmenor.h"
+	"operaciondiferencia.h"
+
+1537145142 source:c:\users\fcojavierjunior\documents\programcionc\numero_natural\operacionprincipal.cpp
+	"operacionprincipal.h"
+
+1537145315 c:\users\fcojavierjunior\documents\programcionc\numero_natural\operacionprincipal.h
+
+1537145438 source:c:\users\fcojavierjunior\documents\programcionc\numero_natural\operacioncentral.cpp
+	"operacioncentral.h"
+
+1537148768 c:\users\fcojavierjunior\documents\programcionc\numero_natural\operacioncentral.h
+
+1537147708 source:c:\users\fcojavierjunior\documents\programcionc\numero_natural\sucesor.cpp
+	"sucesor.h"
+
+1537147711 c:\users\fcojavierjunior\documents\programcionc\numero_natural\sucesor.h
+	<operacioncentral.h>
+
+1537148768 c:\users\fcojavierjunior\documents\programcionc\numero_natural\\operacioncentral.h
+
+1537148828 source:c:\users\fcojavierjunior\documents\programcionc\numero_natural\antecesor.cpp
+	"antecesor.h"
+
+1537149087 c:\users\fcojavierjunior\documents\programcionc\numero_natural\antecesor.h
+	<operacioncentral.h>
+
+1537147878 source:c:\users\fcojavierjunior\documents\programcionc\numero_natural\operacionsuma.cpp
+	"operacionsuma.h"
+
+1537148874 c:\users\fcojavierjunior\documents\programcionc\numero_natural\operacionsuma.h
+	<operacioncentral.h>
+
+1537148276 source:c:\users\fcojavierjunior\documents\programcionc\numero_natural\operaciondiferencia.cpp
+	"operaciondiferencia.h"
+
+1537148271 c:\users\fcojavierjunior\documents\programcionc\numero_natural\operaciondiferencia.h
+	<operacioncentral.h>
+
+1537148261 source:c:\users\fcojavierjunior\documents\programcionc\numero_natural\operacionmenor.cpp
+	"operacionmenor.h"
+
+1537148267 c:\users\fcojavierjunior\documents\programcionc\numero_natural\operacionmenor.h
+	<operacioncentral.h>
+
+1537150215 source:c:\users\fcojavierjunior\documents\programcionc\numero_natural\operacionigual.cpp
+	"operacionigual.h"
+	<iostream>
+
+1537150185 c:\users\fcojavierjunior\documents\programcionc\numero_natural\operacionigual.h
+	<operacioncentral.h>
+
+1537146597 source:c:\users\fcojavierjunior\documents\programcionc\numero_natural\operacion0.cpp
+	"operacion0.h"
+
+1537146597 c:\users\fcojavierjunior\documents\programcionc\numero_natural\operacion0.h
+	<operacioncentral.h>
+

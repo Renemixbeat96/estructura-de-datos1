@@ -1,0 +1,246 @@
+# depslib dependency file v1.0
+1537150723 source:c:\users\fcojavierjunior\documents\programcionc\numero_natural\main.cpp
+	<iostream>
+	"sucesor.h"
+	"antecesor.h"
+	"operacionsuma.h"
+	"operacionigual.h"
+	"operacion0.h"
+	"operacionmenor.h"
+	"operaciondiferencia.h"
+
+1537145142 source:c:\users\fcojavierjunior\documents\programcionc\numero_natural\operacionprincipal.cpp
+	"operacionprincipal.h"
+
+1537145315 c:\users\fcojavierjunior\documents\programcionc\numero_natural\operacionprincipal.h
+
+1537145438 source:c:\users\fcojavierjunior\documents\programcionc\numero_natural\operacioncentral.cpp
+	"operacioncentral.h"
+
+1537148768 c:\users\fcojavierjunior\documents\programcionc\numero_natural\operacioncentral.h
+
+1537147708 source:c:\users\fcojavierjunior\documents\programcionc\numero_natural\sucesor.cpp
+	"sucesor.h"
+
+1537147711 c:\users\fcojavierjunior\documents\programcionc\numero_natural\sucesor.h
+	<operacioncentral.h>
+
+1537148768 c:\users\fcojavierjunior\documents\programcionc\numero_natural\\operacioncentral.h
+
+1537148828 source:c:\users\fcojavierjunior\documents\programcionc\numero_natural\antecesor.cpp
+	"antecesor.h"
+
+1537149087 c:\users\fcojavierjunior\documents\programcionc\numero_natural\antecesor.h
+	<operacioncentral.h>
+
+1537147878 source:c:\users\fcojavierjunior\documents\programcionc\numero_natural\operacionsuma.cpp
+	"operacionsuma.h"
+
+1537148874 c:\users\fcojavierjunior\documents\programcionc\numero_natural\operacionsuma.h
+	<operacioncentral.h>
+
+1537148276 source:c:\users\fcojavierjunior\documents\programcionc\numero_natural\operaciondiferencia.cpp
+	"operaciondiferencia.h"
+
+1537148271 c:\users\fcojavierjunior\documents\programcionc\numero_natural\operaciondiferencia.h
+	<operacioncentral.h>
+
+1537148261 source:c:\users\fcojavierjunior\documents\programcionc\numero_natural\operacionmenor.cpp
+	"operacionmenor.h"
+
+1537148267 c:\users\fcojavierjunior\documents\programcionc\numero_natural\operacionmenor.h
+	<operacioncentral.h>
+
+1537150215 source:c:\users\fcojavierjunior\documents\programcionc\numero_natural\operacionigual.cpp
+	"operacionigual.h"
+	<iostream>
+
+1537150185 c:\users\fcojavierjunior\documents\programcionc\numero_natural\operacionigual.h
+	<operacioncentral.h>
+
+1537146597 source:c:\users\fcojavierjunior\documents\programcionc\numero_natural\operacion0.cpp
+	"operacion0.h"
+
+1537146597 c:\users\fcojavierjunior\documents\programcionc\numero_natural\operacion0.h
+	<operacioncentral.h>
+
+1537148830 source:d:\porgramacion_estructura\nueva carpeta\numero_natural\antecesor.cpp
+	"antecesor.h"
+
+1537367968 d:\porgramacion_estructura\nueva carpeta\numero_natural\antecesor.h
+	"operacioncentral.h"
+
+1537367512 source:d:\porgramacion_estructura\nueva carpeta\numero_natural\main.cpp
+	<iostream>
+	"sucesornv.h"
+	"antecesor.h"
+	"operacionsuma.h"
+	"operacionigual.h"
+	"operacion0.h"
+	"operacionmenor.h"
+	"operaciondiferencia.h"
+
+1537147712 d:\porgramacion_estructura\nueva carpeta\numero_natural\sucesor.h
+	<operacioncentral.h>
+
+1537367712 d:\porgramacion_estructura\nueva carpeta\numero_natural\operacionsuma.h
+	"operacioncentral.h"
+
+1537367720 d:\porgramacion_estructura\nueva carpeta\numero_natural\operacionigual.h
+	"operacioncentral.h"
+
+1537367728 d:\porgramacion_estructura\nueva carpeta\numero_natural\operacion0.h
+	"operacioncentral.h"
+
+1537367736 d:\porgramacion_estructura\nueva carpeta\numero_natural\operacionmenor.h
+	"operacioncentral.h"
+
+1537367744 d:\porgramacion_estructura\nueva carpeta\numero_natural\operaciondiferencia.h
+	"operacioncentral.h"
+
+1537146598 source:d:\porgramacion_estructura\nueva carpeta\numero_natural\operacion0.cpp
+	"operacion0.h"
+
+1537145440 source:d:\porgramacion_estructura\nueva carpeta\numero_natural\operacioncentral.cpp
+	"operacioncentral.h"
+
+1537148770 d:\porgramacion_estructura\nueva carpeta\numero_natural\operacioncentral.h
+
+1537148278 source:d:\porgramacion_estructura\nueva carpeta\numero_natural\operaciondiferencia.cpp
+	"operaciondiferencia.h"
+
+1537150780 source:d:\porgramacion_estructura\nueva carpeta\numero_natural\operacionigual.cpp
+	"operacionigual.h"
+	<iostream>
+
+1537148262 source:d:\porgramacion_estructura\nueva carpeta\numero_natural\operacionmenor.cpp
+	"operacionmenor.h"
+
+1537147880 source:d:\porgramacion_estructura\nueva carpeta\numero_natural\operacionsuma.cpp
+	"operacionsuma.h"
+
+1537147710 source:d:\porgramacion_estructura\nueva carpeta\numero_natural\sucesor.cpp
+	"sucesor.h"
+
+1537367900 d:\porgramacion_estructura\nueva carpeta\numero_natural\sucesornv.h
+	"operacioncentral.h"
+
+1537367890 source:d:\porgramacion_estructura\nueva carpeta\numero_natural\sucesornv.cpp
+	"sucesornv.h"
+
+1537148830 source:c:\users\ja\desktop\numero_natural\antecesor.cpp
+	"antecesor.h"
+
+1537367968 c:\users\ja\desktop\numero_natural\antecesor.h
+	"operacioncentral.h"
+
+1537148770 c:\users\ja\desktop\numero_natural\operacioncentral.h
+
+1537146598 source:c:\users\ja\desktop\numero_natural\operacion0.cpp
+	"operacion0.h"
+
+1537367728 c:\users\ja\desktop\numero_natural\operacion0.h
+	"operacioncentral.h"
+
+1537145440 source:c:\users\ja\desktop\numero_natural\operacioncentral.cpp
+	"operacioncentral.h"
+
+1537148278 source:c:\users\ja\desktop\numero_natural\operaciondiferencia.cpp
+	"operaciondiferencia.h"
+
+1537367744 c:\users\ja\desktop\numero_natural\operaciondiferencia.h
+	"operacioncentral.h"
+
+1537401714 source:c:\users\ja\desktop\numero_natural\operacionigual.cpp
+	"operacionigual.h"
+	<iostream>
+
+1537367720 c:\users\ja\desktop\numero_natural\operacionigual.h
+	"operacioncentral.h"
+
+1537400633 source:c:\users\ja\desktop\numero_natural\operacionmenor.cpp
+	"operacionmenor.h"
+
+1537367736 c:\users\ja\desktop\numero_natural\operacionmenor.h
+	"operacioncentral.h"
+
+1537147880 source:c:\users\ja\desktop\numero_natural\operacionsuma.cpp
+	"operacionsuma.h"
+
+1537367712 c:\users\ja\desktop\numero_natural\operacionsuma.h
+	"operacioncentral.h"
+
+1537400293 source:c:\users\ja\desktop\numero_natural\sucesor.cpp
+	"sucesor.h"
+
+1537400314 c:\users\ja\desktop\numero_natural\sucesor.h
+	"operacioncentral.h"
+
+1537402153 source:c:\users\ja\desktop\numero_natural\main.cpp
+	<iostream>
+	"stdlib.h"
+	"sucesor.h"
+	"antecesor.h"
+	"operacionsuma.h"
+	"operacionigual.h"
+	"operacionmenor.h"
+	"operaciondiferencia.h"
+
+1537148830 source:c:\users\cracking\documents\unidad 1 ejercicios\numero_natural\antecesor.cpp
+	"antecesor.h"
+
+1537367968 c:\users\cracking\documents\unidad 1 ejercicios\numero_natural\antecesor.h
+	"operacioncentral.h"
+
+1537148770 c:\users\cracking\documents\unidad 1 ejercicios\numero_natural\operacioncentral.h
+
+1537402154 source:c:\users\cracking\documents\unidad 1 ejercicios\numero_natural\main.cpp
+	<iostream>
+	"stdlib.h"
+	"sucesor.h"
+	"antecesor.h"
+	"operacionsuma.h"
+	"operacionigual.h"
+	"operacionmenor.h"
+	"operaciondiferencia.h"
+
+1537400316 c:\users\cracking\documents\unidad 1 ejercicios\numero_natural\sucesor.h
+	"operacioncentral.h"
+
+1537367712 c:\users\cracking\documents\unidad 1 ejercicios\numero_natural\operacionsuma.h
+	"operacioncentral.h"
+
+1537367720 c:\users\cracking\documents\unidad 1 ejercicios\numero_natural\operacionigual.h
+	"operacioncentral.h"
+
+1537367736 c:\users\cracking\documents\unidad 1 ejercicios\numero_natural\operacionmenor.h
+	"operacioncentral.h"
+
+1537367744 c:\users\cracking\documents\unidad 1 ejercicios\numero_natural\operaciondiferencia.h
+	"operacioncentral.h"
+
+1537146598 source:c:\users\cracking\documents\unidad 1 ejercicios\numero_natural\operacion0.cpp
+	"operacion0.h"
+
+1537367728 c:\users\cracking\documents\unidad 1 ejercicios\numero_natural\operacion0.h
+	"operacioncentral.h"
+
+1537145440 source:c:\users\cracking\documents\unidad 1 ejercicios\numero_natural\operacioncentral.cpp
+	"operacioncentral.h"
+
+1537148278 source:c:\users\cracking\documents\unidad 1 ejercicios\numero_natural\operaciondiferencia.cpp
+	"operaciondiferencia.h"
+
+1537401716 source:c:\users\cracking\documents\unidad 1 ejercicios\numero_natural\operacionigual.cpp
+	"operacionigual.h"
+	<iostream>
+
+1537400634 source:c:\users\cracking\documents\unidad 1 ejercicios\numero_natural\operacionmenor.cpp
+	"operacionmenor.h"
+
+1537147880 source:c:\users\cracking\documents\unidad 1 ejercicios\numero_natural\operacionsuma.cpp
+	"operacionsuma.h"
+
+1537400294 source:c:\users\cracking\documents\unidad 1 ejercicios\numero_natural\sucesor.cpp
+	"sucesor.h"
+
